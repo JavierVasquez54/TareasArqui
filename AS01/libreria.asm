@@ -1,6 +1,6 @@
 ;  Libreria stdio 32 bits
 ;  ---------- funcion longitud de cadena-------
-;  void strlen(cadena)
+;  void strlen (cadena)
 strlen:
 	push 	ebx
 	mov 	ebx, eax
