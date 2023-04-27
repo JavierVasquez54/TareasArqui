@@ -1,4 +1,4 @@
-;Convierte la cadena ingresada a mayusculas
+;Convierte la cadena ingresada a mayusculas 
 
 %include	'libreriaCadenas.asm'
 
