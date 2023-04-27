@@ -1,4 +1,4 @@
-; Aplicaion de Gotoxy  Gotoxy
+; Aplicaion de Gotoxy  Gotoxy 
 %include 	'stdio32.asm'
 
 SECTION .data
