@@ -1,4 +1,4 @@
-; Aplicacion que sirve para castear string a numero y vicebersa
+; Aplicacion que sirve para castear string a numero y vicebersa 
 
 
 %include        'stdio32.asm'
